@@ -1,5 +1,5 @@
 # C4-Model-EA
-Repositório sobre conceitos base de C4 Model + C4-PlantUML
+Repositório sobre conceitos base de C4 Model + C4-PlantUML - Ref Oficial: https://c4model.com/ - Ref Guia.dev: https://guia.dev/pt/pillars/software-architecture/technical-drawing.html
 # C4 Model
 O C4 Model é uma forma de desenhar e documentar a arquitetura de um software. Ele foi criado pelo Engenheiro Simon Brown. O nome C4 deriva do modelo 4+1 que significa fazer uso de multiplas visões concorrentes, onde cada uma esta sob uma perspectiva diferente. Neste sentido temos 4 níveis: Context, Containers, Component and Code.
 # C4-PlantUML
